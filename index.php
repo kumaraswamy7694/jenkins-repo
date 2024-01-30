@@ -1,5 +1,5 @@
 <?php
 
-print "first and second both are the same code !!";
+print "first ,second and third  are the same code !!";
 
 ?>
